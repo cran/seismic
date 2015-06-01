@@ -1,0 +1,14 @@
+Package: seismic
+Type: Package
+Title: Predict Information Cascade by Self-Exciting Point Process
+Version: 1.0
+Date: 2015-06-01
+Author: Hera He, Murat Erdogdu, Qingyuan Zhao
+Maintainer: Qingyuan Zhao <qingyzhao@gmail.com>
+Description: An implementation of self-exciting point process model for information cascades, which occurs when many people engage in the same acts after observing the actions of others (e.g. post resharings on Facebook or Twitter). It provides functions to estimate the infectiousness of an information cascade and predict its popularity given the observed history. See http://snap.stanford.edu/seismic/ for more information and datasets.
+URL: http://snap.stanford.edu/seismic/
+License: GPL-3
+Packaged: 2015-06-05 16:53:09 UTC; qyzhao
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2015-06-05 22:23:38
